@@ -1,12 +1,8 @@
-<p align="center">
-  <h1>
-    Watch<p style='color: #FAE800;'>Me</p>
-  </h1>
-</p>
-
+<h1 align="center">WatchMe</h1>
+    
 <p align="center">	
   <a href="https://www.linkedin.com/in/marco-echevestre/">
-      <img alt="Marco Echevestre" src="https://img.shields.io/badge/-Marco Echevestre-FAE800?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Marco Echevestre" src="https://img.shields.io/badge/-Marco Echevestre-FAE800?style=flat&logo=Linkedin&logoColor=black" />
   </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/marcoaminotto/ignite-watchme-challenge?color=FAE800">
   <img alt="Repository size" src="https://img.shields.io/github/languages/code-size/marcoaminotto/ignite-watchme-challenge?color=FAE800">
